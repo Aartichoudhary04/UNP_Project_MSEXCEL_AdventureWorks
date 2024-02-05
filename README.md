@@ -1,5 +1,5 @@
 # UNP_Project_MSEXCEL_AdventureWorks
-EY HIGHLIGHTS
+KEY HIGHLIGHTS
 
   -Prepared an interactive sales dashboard for the company with three categories: Regional Analysis, Product Analysis, and Customer Analysis
 
