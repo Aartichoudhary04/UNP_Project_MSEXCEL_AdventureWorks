@@ -9,4 +9,4 @@ EY HIGHLIGHTS
 
   -Created slicers to interact and visualise the data
   
--Link: https://www.canva.com/design/DAF75l3hd20/naMEO_J3-tCrw0XpJCDoyA/view?utm_content=DAF75l3hd20&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=editor_celebratory_first_publish
+-Link: https://drive.google.com/drive/folders/1g2whN9nDWYD5m-nRs_IO4RTMW2eWL-UO?usp=drive_link
