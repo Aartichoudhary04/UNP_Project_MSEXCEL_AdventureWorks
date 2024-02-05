@@ -7,6 +7,6 @@ EY HIGHLIGHTS
   -Contributed to the development of KPIs to track important metrics
 
 
- - Created slicers to interact and visualise the data
+  -Created slicers to interact and visualise the data
   
 -Link: https://www.canva.com/design/DAF75l3hd20/tm43nqqKbr8OYzo2ESTZxw/edit
