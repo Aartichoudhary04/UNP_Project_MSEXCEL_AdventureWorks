@@ -9,4 +9,6 @@ EY HIGHLIGHTS
 
   -Created slicers to interact and visualise the data
   
--Link: https://drive.google.com/drive/folders/1g2whN9nDWYD5m-nRs_IO4RTMW2eWL-UO?usp=drive_link
+-PDF Link: https://drive.google.com/drive/folders/1g2whN9nDWYD5m-nRs_IO4RTMW2eWL-UO?usp=drive_link
+
+-EXCEL Link: https://drive.google.com/drive/folders/1tgM5C8zZ3XGKcd2KAbZ-W0SfBsJ44zkG?usp=drive_link
