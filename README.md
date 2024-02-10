@@ -9,6 +9,5 @@ KEY HIGHLIGHTS
 
   -Created slicers to interact and visualise the data
   
--PDF Link: https://drive.google.com/drive/folders/1g2whN9nDWYD5m-nRs_IO4RTMW2eWL-UO?usp=drive_link
-
--EXCEL Link: https://drive.google.com/drive/folders/1tgM5C8zZ3XGKcd2KAbZ-W0SfBsJ44zkG?usp=drive_link
+-PDF Link: https://drive.google.com/file/d/1BvhHlt_7PuSUTTil-ruoj8KeYuaMbHok/view?usp=drive_link
+-EXCEL Link: https://docs.google.com/spreadsheets/d/1zqcNv5O9qtlMycVAH9SWLVqdhrhIvUHL/edit?usp=sharing&ouid=103332900100350518187&rtpof=true&sd=true
