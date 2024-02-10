@@ -10,4 +10,4 @@ KEY HIGHLIGHTS
   -Created slicers to interact and visualise the data
   
 -PDF Link: https://drive.google.com/file/d/1BvhHlt_7PuSUTTil-ruoj8KeYuaMbHok/view?usp=drive_link
--EXCEL Link: https://docs.google.com/spreadsheets/d/1J2t2zv5Q2thYfGga6mrIXGEOjv142sV-/edit?usp=sharing&ouid=103332900100350518187&rtpof=true&sd=true
+-EXCEL Link: https://drive.google.com/drive/folders/1NRtj9ycwwTCWaD8XiYj1fD-JylbwJNV-?usp=drive_link
